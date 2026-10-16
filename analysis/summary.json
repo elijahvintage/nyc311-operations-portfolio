@@ -1,0 +1,15 @@
+{
+  "source": "NYC Open Data 311 Service Requests from 2020 to Present",
+  "source_id": "erm2-nwe9",
+  "period": "2025-01-01 through 2025-03-31 created requests",
+  "raw_rows": 884765,
+  "clean_rows": 884765,
+  "closed_rows": 873833,
+  "open_at_extract_rows": 10932,
+  "closure_rate": 0.9876,
+  "median_resolution_hours": 12.58,
+  "p90_resolution_hours": 437.51,
+  "breach_threshold_hours": 72,
+  "breach_rate_closed": 0.2373,
+  "negative_duration_rows_removed_from_duration": 364
+}

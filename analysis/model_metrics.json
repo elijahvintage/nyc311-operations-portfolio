@@ -1,0 +1,7 @@
+{
+  "train_rows": 596862,
+  "test_rows": 276971,
+  "test_breach_rate": 0.2264,
+  "roc_auc": 0.9463,
+  "average_precision": 0.8328
+}
