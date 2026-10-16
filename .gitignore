@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+review/page-*.png
+review/contact-sheet.png
+data/raw/*.csv
+data/processed/*.csv
